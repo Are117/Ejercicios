@@ -7,9 +7,9 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
 1. **Suma de los dígitos de un número**
-   - `[suma_digitos.c](kijij)`
+   - `FUNCIONES Y PROCEDIMIENTOS/suma_digitos.c`
 2. **Inverso de un número**
-   - `ejercicios/inverso_numero.c`
+   - [suma](suma_digitos.c)
 3. **Potencia mediante sumas sucesivas**
    - `ejercicios/potencia_sumas.c`
 4. **Radicación mediante restas sucesivas**
