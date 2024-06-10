@@ -15,7 +15,7 @@ Cada ejercicio se encuentra en un archivo separado. A continuación se detalla l
 4. **Radicación mediante restas sucesivas**
    - `ejercicios/radicacion_restas.c`
 5. **Serie de Fibonacci**
-   - `ejercicios/serie_fibonacci.c`
+   - [serie_fibonacci](fibonacci.c)
 6. **Factorial de un número**
    - `ejercicios/factorial.c`
 7. **Suma de una serie aritmética**
